@@ -1,0 +1,12 @@
+{
+  "userId": "u_4886111579d6765a",
+  "projectId": "AQ4",
+  "name": "AQ4",
+  "board": {
+    "fqbn": "esp32:esp32:esp32"
+  },
+  "selections": null,
+  "serial": null,
+  "createdAt": "2026-10-23T06:23:31.633Z",
+  "updatedAt": "2026-10-23T06:23:31.633Z"
+}
