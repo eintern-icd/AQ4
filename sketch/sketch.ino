@@ -5,7 +5,7 @@
 #include <Wire.h>
 #include <SPI.h>
 #include <CST816S.h>
-
+#include <PCA9536D.h>
 // ===================== LovyanGFX display setup =====================
 #define LGFX_USE_V1
 #include <LovyanGFX.hpp>
