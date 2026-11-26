@@ -1,7 +1,7 @@
 //"NPD-NORVI X-AQ4"
 // CH1 / CH2 : 0-10V   (voltage outputs)
 // CH3 / CH4 : 0-20mA  (current outputs)
-
+//===============
 #include <Wire.h>
 #include <SPI.h>
 #include <CST816S.h>
